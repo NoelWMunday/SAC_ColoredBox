@@ -44,3 +44,4 @@
 	}
 
 customElements.define("sample-box-styling", ColoredBoxStylingPanel);
+})();
